@@ -1,1 +1,3 @@
-# Automation_test_first_task_2023.12.25
+- Study reference 8.
+- study about different types of networks
+- study new expressions
